@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="chathuran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="chathuran | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="chathuran | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
 
 <br />
 
@@ -33,4 +33,4 @@
 
 
 [linkedin]: https://linkedin.com/in/chathurandannoruwa/
-[stackoverflow]: https://stackoverflow.com/users/7888956/dec
+[stackOverflow]: https://stackoverflow.com/users/7888956/dec
