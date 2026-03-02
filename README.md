@@ -1,7 +1,7 @@
 ### Hi there, I'm Chathuran 👋
 
 
-## I'm a Software Developer!!
+## I'm a Software Engineer!!
 
 
 ### Connect with me:
